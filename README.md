@@ -2,6 +2,131 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Benny同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
+#  🙋 Hello
+
+<table>
+
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是Benny同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</tr></td>
+
+<tr><td>
+
+### 📃 Recent Blog
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+<!-- feed start -->
+- Jan 01 - [2025 → 2026，给时光以生命，待岁月以温柔！](https://blog.guoqi.dev/posts/2025/)
+- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kun-lun-chao/)
+- Mar 10 - [你好，北京！你好，原则科技！](https://blog.guoqi.dev/posts/yuan-ze-ke-ji/)
+- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
+- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xi-zang/)
+<!-- feed end -->
+
+</td></tr>
+
+<!-- <tr><td>
+
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr> -->
+
+<tr><td>
+
+### 📊 WakaTime
+
+<!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2059%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+🌆 Daytime                643 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+🌃 Evening                688 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+🌙 Night                  604 commits         ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    24 hrs 51 mins      █████████████████████████   99.07 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+
+🔥 Editors: 
+Grok Build               24 hrs 41 mins      █████████████████████████   98.40 % 
+Agent                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+💻 Operating System: 
+Mac                      25 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 5 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 642,565,912 Input Tokens, 3,526,563 Output Tokens
+
+💵 $1306.29 Estimated AI Cost This Week
+
+🧠 84 AI Sessions, 459 AI Prompts
+
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 5,160 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 26/09/2026 02:11:16 UTC
+<!--END_SECTION:waka-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
