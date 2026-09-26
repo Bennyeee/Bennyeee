@@ -11,7 +11,7 @@
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/10117823?v=4" />
 
 
 <p>&emsp;&emsp;嗨，你好，我是Benny同学。热爱编程、摄影、读书、旅行。</p>
