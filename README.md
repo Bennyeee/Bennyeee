@@ -127,6 +127,11 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 
  Last Updated on 26/09/2026 02:11:16 UTC
 <!--END_SECTION:waka-->
+</td></tr>
+
+</table>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
